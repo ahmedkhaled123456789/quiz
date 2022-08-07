@@ -1,7 +1,7 @@
 import React from "react";
 import Card from './Card'
  import './FinalPage.css';
-
+// ahmed
 const FinalPage =( {score,paragraph,setScore, setShowFinalPage,topScore,setTopScore,setShowSTartindPage,userName,setUserName }) => {
 
   const handleClick=() =>{
